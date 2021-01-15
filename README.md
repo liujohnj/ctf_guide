@@ -1,6 +1,8 @@
 # Capture the Flag (CTF) Guide for UF Students
 ## A quick and dirty (unofficial) guide to getting started in participating in CTFs with UF's Kernel Sanders team
 
+_Disclaimer: The author apologizes in advance for any errors, inaccuracies, or omissions, but he, possibly like the reader, is a relative newcomer to the world of CTFs._
+
 If you are reading this, it may be because you:
 
 * Need to meet the CTF participation requirements for a class such as CIS 4204 (Penetration Testing: Ethical Hacking).
@@ -40,19 +42,20 @@ Here are a few suggestions and nuggets of knowledge complete beginners might fin
     * Web:  Self-explanatory.
     * Forensic:  These seem to vary but may involve a variety of the above and/or something that doesn't fall in any category at all.
 * Each of the challenges has a score associated with it.  The higher the score, the more difficult the challenge is.
-* Some CTFs are set up so that each time a CTF team solves a challenge, the number of points to be rewarded is reduced.
-* Once you solve a CTF challenge, you will be presented with a flag, the form for which may vary, but usually look something like flag{#######}.  Somewhere on the CTF's website, this form will be indicated.  Here are a few actual flags from prior CTFs:
+* Some CTFs are set up so that each time a CTF team solves a challenge, the number of points to be awarded is reduced.
+* Once you solve a CTF challenge, you will be presented with a flag, the form for which may vary, but usually looks something like flag{#######}.  Somewhere on the CTF's website, this form will be indicated.  Here are a few actual flags from prior CTFs:
     * flag{squarectf}
     * CYCTF{c@3$@r_c!ph3r}
     * sun{lucky-octal-encoding-is-the-best-encoding-method}
 * To gain credit for solving the challenge, you must enter the flag where indicated.  Once it is solved and points are awarded, then this particular challenge comes off the board.  In other words, you can't get credit for solving a challenge that's already been solved.
-* If you want to increase the odds of solving a challenge, it's best to sign in right at the beginning, while the easier challenges are still unsolved.
+* It's a good idea to announce in the appropriate Discord channel as soon as you've solved a challenge so that others don't unknowingly continue working on the same one.  It also may serve double-duty as notification for leeway credit purposes.
+* If you want to increase the odds of solving a challenge, it's best to sign in right at the opening bell, while the easier challenges are still unsolved.
 * Some CTFs will release new challenges periodically throughout the event.
-* It is more common than not for collaborative efforts to be directed to certain challenges.  Discord chat for these challenges occur in the specific Discord channel representing the type challenge, e.g., #crypto.  However, be cognizant on the impact this will have on your ability to earn leeway credit in a course offering it.
-* Some challenges may take 10 minutes to solve.  Alternatively, you may spend 10+ hours on a challenge and never solve it.  The first legitimate one I solved was a Crypto challenge during my seventh CTF and took me a little less than two hours.  Converseley, I have double-digit hours on other ones that I never could solve.
-* You are allowed to use whatever resources you can find to aid you with your efforts; however, read the published rules first.
-* If you have zero background in specialized areas such as Web or Reverse Engineering, I personally feel that the Crypto category may be the most intuitive one to tackle as a beginner.  Alternatively, you may want to explore Forensics or Miscellaneous.
-* It's a good idea to announce in the appropriate Discord channel as soon as you've solved a challenge so that others don't unknowingly continue working on the same one.
+* It is more common than not for two or more Kernel Sanders teammates to collaborate on challenges.  Such chat typically occurs in the specific Discord channel representing the challenge type, e.g., #crypto.  However, be cognizant of the impact this will have on your ability to earn leeway credit in a course offering it.
+* It is common to find two or more individuals working through the night on challenges, chatting with each other on Discord, crashing for a few hours when the sun comes up, and then resuming efforts.
+* Some challenges may take 10 minutes to solve.  Alternatively, you may spend 10+ hours on a challenge and never solve it.  The first legitimate one I solved was a Crypto challenge during my seventh CTF and it took me a little less than two hours.  Conversely, I have double-digit hours on other ones that I never could solve.
+* You are allowed to use whatever resources you can find to aid you with your efforts; however, read the published rules first at the respective CTF website.
+* If you have zero background in specialized areas such as Web or Reverse Engineering, I personally feel that the Crypto category may be the most intuitive one to tackle as a beginner.  Alternatively, you may want to explore Forensics or Miscellaneous.  If you're reading this during a Spring semester, you may be taking Malware Reverse Engineering.  As uttered in the movie _Taken_, "good luck."
 
-Frequently Asked Questions (FAQ)
-....coming soon
+###Frequently Asked Questions (FAQ)
+_Coming soon_...

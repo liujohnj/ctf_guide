@@ -49,7 +49,7 @@ Here are a few suggestions and nuggets of knowledge complete beginners might fin
     * CYCTF{c@3$@r_c!ph3r}
     * sun{lucky-octal-encoding-is-the-best-encoding-method}
 * To gain credit for solving the challenge, you must enter the flag where indicated.  Once it is solved and points are awarded, then this particular challenge comes off the board.  In other words, you can't get credit for solving a challenge that's already been solved.
-* It's a good idea to make an announcement in the appropriate Discord channel, e.g., #pwn, as soon as you've solved a challenge so that others don't unknowingly continue working on the same one.  It also may serve double-duty as notification for leeway credit purposes.
+* It's a good idea to make an announcement in the appropriate Discord channel, e.g., #pwn, as soon as you've solved a challenge so that others don't unknowingly continue working on the same one.  It also may serve double-duty as notification for leeway credit purposes.  Regarding leeway credit, definitely ascertain what the official protocol is to document solves.  In my opinion, a sound idea is to post something in Discord as previously stated and also direct message the appointed liaison. 
 * If you want to increase the odds of solving a challenge, it's best to sign in right at the opening bell, while the easier challenges are still unsolved.
 * Some CTFs will release new challenges periodically throughout the event.
 * It is more common than not for two or more Kernel Sanders teammates to collaborate on challenges.  Such chat typically occurs in the specific Discord channel representing the challenge type, e.g., #crypto.  However, be cognizant of the impact this will have on your ability to earn leeway credit in a course offering it.

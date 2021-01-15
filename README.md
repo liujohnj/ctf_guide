@@ -31,20 +31,20 @@ Here is how to get started:
 Here are a few suggestions and nuggets of knowledge complete beginners might find helpful:
 
 * Because CTFs are an international affair, it is common to see start and end times represented in UTC (Universal Time).  To convert from UTC to Eastern Time:
-..* If it's presently Eastern Standard Time, subtract five (5) hours, e.g., 22:00 UTC = 17:00 EST (using military time).
-..* If it's presently Eastern Daylight Savings Time, subtract four (4) hours, e.g., 22:00 UTC = 18:00 EDT (using military time).
+    * If it's presently Eastern Standard Time, subtract five (5) hours, e.g., 22:00 UTC = 17:00 EST (using military time).
+    * If it's presently Eastern Daylight Savings Time, subtract four (4) hours, e.g., 22:00 UTC = 18:00 EDT (using military time).
 * After signing in to a CTF, you likely will see something resembling a Jeopardy-style scoreboard.  This board will have various challenges falling under certain categories, including but not limited to:
-..* Crypto:  Some type of cryptography is involved.
-..* Reverse Engineering:  Self-explanatory.
-..* Pwn:  I'm not familiar with these, but I believe they typically involve binary exploitation.  Apparently, in slang, to pwn something means to "own" it.
-..* Web:  Self-explanatory.
-..* Forensic:  These seem to vary but may involve a variety of the above and/or something that doesn't fall in any category at all.
+    * Crypto:  Some type of cryptography is involved.
+    * Reverse Engineering:  Self-explanatory.
+    * Pwn:  I'm not familiar with these, but I believe they typically involve binary exploitation.  Apparently, in slang, to pwn something means to "own" it.
+    * Web:  Self-explanatory.
+    * Forensic:  These seem to vary but may involve a variety of the above and/or something that doesn't fall in any category at all.
 * Each of the challenges has a score associated with it.  The higher the score, the more difficult the challenge is.
 * Some CTFs are set up so that each time a CTF team solves a challenge, the number of points to be rewarded is reduced.
 * Once you solve a CTF challenge, you will be presented with a flag, the form for which may vary, but usually look something like flag{#######}.  Somewhere on the CTF's website, this form will be indicated.  Here are a few actual flags from prior CTFs:
-..* flag{squarectf}
-..* CYCTF{c@3$@r_c!ph3r}
-..* sun{lucky-octal-encoding-is-the-best-encoding-method}
+    * flag{squarectf}
+    * CYCTF{c@3$@r_c!ph3r}
+    * sun{lucky-octal-encoding-is-the-best-encoding-method}
 * To gain credit for solving the challenge, you must enter the flag where indicated.  Once it is solved and points are awarded, then this particular challenge comes off the board.  In other words, you can't get credit for solving a challenge that's already been solved.
 * If you want to increase the odds of solving a challenge, it's best to sign in right at the beginning, while the easier challenges are still unsolved.
 * Some CTFs will release new challenges periodically throughout the event.

@@ -9,7 +9,7 @@ If you are reading this, it may be because you:
 * Desire to earn leeway (i.e., sorta extra) credit towards your Final Exam for CIS 4204 or CIS 4930 (Malware Reverse Engineering).
 * Keep hearing how cool and fun CTFs are and just want to see what the fuss is all about.
 
-This short guide is written to help you jumpstart your foray into participating in CTFs with Kernel Sanders.  It is not intended to teach you how CTFs actually work or how to succeed at them (as I, a beginner myself, definitely am unqualified to do this).
+This short guide is written to help you jump-start your foray into participating in CTFs with Kernel Sanders.  It is not intended to teach you how CTFs actually work or how to succeed at them (as I, a beginner myself, definitely am unqualified to do this).
 
 Here are some preliminary thoughts to keep in mind:
 
